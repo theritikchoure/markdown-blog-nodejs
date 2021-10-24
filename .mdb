@@ -1,0 +1,12 @@
+{
+  "packageManager": "npm",
+  "projectName": "markdown-blog",
+  "hash": "cba675af",
+  "backend": {
+    "platform": "node12"
+  },
+  "meta": {
+    "type": "backend"
+  },
+  "domain": "mdblog.ritikchoure.mdbgo.io"
+}
